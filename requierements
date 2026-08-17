@@ -1,0 +1,11 @@
+torch>=2.0.0
+torchvision
+ultralytics
+timm
+roboflow
+scikit-learn
+pandas
+numpy
+matplotlib
+opencv-python
+pillow
