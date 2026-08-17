@@ -6,7 +6,7 @@
 import os
 from roboflow import Roboflow
 
-# Solicitar API Key por correo institucional si es necesario
+# Solicitar API Key por correo: david.romero@estudiantes.cicy.mx
 rf = Roboflow(api_key="TU_API_KEY") 
 project = rf.workspace("daves-workspace-cvhyt").project("satellite-pv")
 version = project.version(2)
