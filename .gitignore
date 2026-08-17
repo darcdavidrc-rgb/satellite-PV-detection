@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Modelos y pesos pesados
+*.pt
+*.pth
+*.onnx
+
+# Datasets e imágenes
+Satellite-PV-2/
+datasets/
+runs/
